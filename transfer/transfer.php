@@ -17,9 +17,7 @@
     </div>
     <div class="right">
       <h1>This is a change/h1>
-      <?php echo="https://api.hubapi.com/engagements/v1/engagements/paged?hapikey=demo&limit=2
-"?>
-<?php echo="hi"?>
+
       <div id="transfer_form">
         <form>
           <input type="string" label="Target HubID"/>
